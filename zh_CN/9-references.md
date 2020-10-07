@@ -1,0 +1,40 @@
+# 参考文献
+
+- [1] Clickhouse. https://clickhouse.tech.
+- [2] LZ4. https://github.com/lz4/lz4.
+- [3] MemSQL. https://www.memsql.com.
+- [4] Parquet. https://parquet.apache.org.
+- [5] RocksDB. https://rocksdb.org.
+- [6] Sysbench. https://github.com/akopytov/sysbench.
+- [7] TiDB. https://github.com/pingcap/tidb.
+- [8] J. Arulraj, A. Pavlo, and P. Menon. Bridging the Archipelago between Row-Stores and Column-Stores for Hybrid Workloads. In SIGMOD, pages 583–598. ACM, 2016.
+- [9] R. Barber, C. Garcia-Arellano, R. Grosman, R. Muller, et al. Evolving Databases for New-Gen Big Data Applications. In CIDR. www.cidrdb.org, 2017.
+- [10] R. Barber, M. Huras, G. M. Lohman, C. Mohan, et al. Wildfire: Concurrent Blazing Data Ingest and Analytics. In SIGMOD, pages 2077–2080. ACM, 2016.
+- [11] R. Cattell. Scalable SQL and NoSQL data stores. SIGMOD Rec., 39(4):12–27, 2010.
+- [12] F. Chang, J. Dean, S. Ghemawat, W. C. Hsieh, D. A. Wallach, M. Burrows, T. Chandra, A. Fikes, and R. Gruber. Bigtable: A Distributed Storage System for Structured Data. In OSDI, pages 205–218. USENIX Association, 2006.
+- [13] R. L. Cole, F. Funke, L. Giakoumakis, W. Guy, et al. The mixed workload CH-benCHmark. In DBTest 2011, page 8. ACM, 2011.
+- [14] J. C. Corbett, J. Dean, M. Epstein, A. Fikes, et al. Spanner: Google’s Globally Distributed Database. ACM Trans. Comput. Syst., 31(3):8:1–8:22, 2013.
+- [15] Z. Fang, B. Zheng, and C. Weng. Interleaved Multi-Vectorizing. PVLDB, 13(3):226–238, 2019.
+- [16] A. Floratou, U. F. Minhas, and F. Ozcan. SQL-on-Hadoop: Full Circle Back to Shared-Nothing Database Architectures. PVLDB, 7(12):1295–1306, 2014.
+- [17] G. Graefe. Volcano - An Extensible and Parallel Query Evaluation System. IEEE Trans. Knowl. Data Eng., 6(1):120–135, 1994.
+- [18] A. Kemper and T. Neumann. HyPer: A hybrid OLTP&OLAP main memory database system based on virtual memory snapshots. In ICDE, pages 195–206. IEEE Computer Society, 2011.
+- [19] T. Lahiri, S. Chavan, M. Colgan, D. Das, A. Ganesh, et al. Oracle Database In-Memory: A dual format in-memory database. In ICDE, pages 1253–1258. IEEE Computer Society, 2015.
+- [20] L. Lamport. The Part-Time Parliament. ACM Trans. Comput. Syst., 16(2):133–169, 1998.
+- [21] P. Larson, A. Birka, E. N. Hanson, W. Huang, M. Nowakiewicz, and V. Papadimos. Real-Time Analytical Processing with SQL Server. PVLDB, 8(12):1740–1751, 2015.
+- [22] J. Lee, S. Moon, K. H. Kim, D. H. Kim, S. K. Cha, W. Han, C. G. Park, H. J. Na, and J. Lee. Parallel Replication across Formats in SAP HANA for Scaling Out Mixed OLTP/OLAP Workloads. PVLDB, 10(12):1598–1609, 2017.
+- [23] C. Luo, P. Toz¨ un, Y. Tian, R. Barber, et al. Umzi: Unified Multi-Zone Indexing for Large-Scale HTAP. In EDBT, pages 1–12. OpenProceedings.org, 2019.
+- [24] D. Makreshanski, J. Giceva, C. Barthels, and G. Alonso. BatchDB: Efficient Isolated Execution of Hybrid OLTP+OLAP Workloads for Interactive Applications. In SIGMOD, pages 37–50. ACM, 2017.
+- [25] B. Mozafari, J. Ramnarayan, S. Menon, Y. Mahajan, S. Chakraborty, H. Bhanawat, and K. Bachhav. SnappyData: A Unified Cluster for Streaming, Transactions and Interactive Analytics. In CIDR. www.cidrdb.org, 2017.
+- [26] T. Muhlbauer, W. R ¨ odiger, A. Reiser, A. Kemper, and T. Neumann. ScyPer: A Hybrid OLTP&OLAP Distributed Main Memory Database System for Scalable Real-Time Analytics. In DBIS, volume P-214 of LNI, pages 499–502. GI, 2013.
+- [27] N. Mukherjee, S. Chavan, M. Colgan, M. Gleeson, X. He, et al. Fault-tolerant real-time analytics with distributed Oracle Database In-memory. In ICDE, pages 1298–1309. IEEE Computer Society, 2016.
+- [28] P. E. O’Neil, E. Cheng, D. Gawlick, and E. J. O’Neil. The Log-Structured Merge-Tree (LSM-Tree). Acta Inf., 33(4):351–385, 1996.
+- [29] D. Ongaro and J. K. Ousterhout. In Search of an Understandable Consensus Algorithm. In USENIX ATC, pages 305–319. USENIX Association, 2014.
+- [30] F. Ozcan, Y. Tian, and P. T oz un. Hybrid Transactional/Analytical Processing: A Survey. In SIGMOD, pages 1771–1775. ACM, 2017.
+- [31] A. Pavlo, G. Angulo, J. Arulraj, H. Lin, J. Lin, et al. Self-Driving Database Management Systems. In CIDR. www.cidrdb.org, 2017.
+- [32] A. Pavlo and M. Aslett. What’s Really New with NewSQL? SIGMOD, 45(2):45–55, 2016.
+- [33] D. Peng and F. Dabek. Large-scale Incremental Processing Using Distributed Transactions and Notifications. In OSDI, pages 251–264. USENIX Association, 2010.
+- [34] I. Psaroudakis, F. Wolf, N. May, T. Neumann, A. Bohm, A. Ailamaki, and K. Sattler. Scaling Up Mixed Workloads: A Battle of Data Freshness, Flexibility, and Scheduling. In TPCTC, volume 8904, pages 97–112. Springer, 2014.
+- [35] M. Sadoghi, S. Bhattacherjee, B. Bhattacharjee, and M. Canim. L-Store: A Real-time OLTP and OLAP System. In EDBT, pages 540–551. OpenProceedings.org, 2018.
+- [36] S. Sivasubramanian. Amazon dynamoDB: a seamlessly scalable non-relational database service. In SIGMOD, pages 729–730. ACM, 2012.
+- [37] M. Stonebraker and U. C¸ etintemel. “One Size Fits All”: An Idea Whose Time Has Come and Gone (Abstract). In ICDE, pages 2–11. IEEE Computer Society, 2005.
+- [38] R. Taft, I. Sharif, A. Matei, N. VanBenschoten, J. Lewis, et al. CockroachDB: The Resilient Geo-Distributed SQL Database. In SIGMOD, pages 1493–1509. ACM, 2020.
