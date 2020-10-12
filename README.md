@@ -36,5 +36,7 @@ DOI: https://doi.org/10.14778/3415478.3415535
 
 ## 许可协议
 
+已致信 <pr@pingcap.com> 获得翻译授权，任何人在使用本 Repo 以及所涉材料时，应当遵循下述许可协议：
+
 - 本 Repo 中所涉原文以及文献之 PDF 的一切权利归原作者及其团队所有，仅供学习对照使用。原始论文以 [`CC-BY-NC-ND-4.0`](https://creativecommons.org/licenses/by-nc-nd/4.0/) 发布。
 - 中文译本以 `CC-BY-4.0` 许可协议进行发布，请查阅 [`LICENSE`](./LICENSE) 文件以获取更多信息。
