@@ -26,4 +26,4 @@ TiDB 展现了一种创新的解决方案，可以帮助基于共识算法的 Ne
 
 ![figure1-adding-columnar-learners-to-a-raft-group](../assets/figure1-adding-columnar-learners-to-a-raft-group.png)
 
-_**图1：向 Raft 组添加用于生成列式存储的学习者节点**_
+_**图 1：向 Raft 组添加用于生成列式存储的学习者节点**_
