@@ -23,7 +23,3 @@ TiDB 展现了一种创新的解决方案，可以帮助基于共识算法的 Ne
 - 本研究使用 HTAP 基准测试 CH-benCHmark 对 TiDB 的 OLTP、OLAP 和 HTAP 性能进行了全面的实验评估。
 
 本文的其余部分组织如下。第 2 节中描述了基于 Raft 共识算法的 HTAP 存储系统的主要思想，并在第 3 节中描述 TiDB 体系结构。第 4 节和第 5 节详细介绍 TiDB 的多层存储和 HTAP 引擎。实验评估见第 6 节。第 7 节总结相关工作。最后，第 8 节中对论文进行总结。
-
-![figure1-adding-columnar-learners-to-a-raft-group](../assets/figure1-adding-columnar-learners-to-a-raft-group.png)
-
-_**图 1：向 Raft 组添加用于生成列式存储的学习者节点**_

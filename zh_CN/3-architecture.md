@@ -1,5 +1,9 @@
 # TiDB 体系结构
 
+![figure2-tidb-architecture](../assets/figure2-tidb-architecture.png)
+
+_**图 2：TiDB 体系结构**_
+
 本节将会描述 TiDB 的体系结构，如 *图 2* 所示。TiDB 支持 MySQL 协议，并且可以用 MySQL 兼容的客户端访问。三个核心组件分别是：分布式存储层、布局驱动（Placement Driver, PD）和计算引擎层。
 
 分布式存储层由行式存储（TiKV）和列式存储（TiFlash）组成。从逻辑上讲，存储在 TiKV 中的数据是一个有序的键值映射。每个元组都映射成一个键值对。关键字由行数据的表标识符（table ID）和行标识符（row ID）组成，值对应实际的行数据，其中表标识符和行标识符是唯一的整数，行标识符来自主键列（primary key column）。四列元组的 key-value 示例：
