@@ -28,7 +28,7 @@ Value: {null}
 
 为了帮助 TiDB 连接到 Hadoop 生态系统，TiDB 在 multi-Raft 存储上添加了 TiSpark 。除了 SQL ，TiSpark 还支持强大的计算，比如机器学习库，并且能够处理 TiDB 外部的数据。
 
-![table2-read-performance-of-delta-tree-and-lsm-tree](../assets/figure6-the-interaction-of-tispark-and-tidb.png)
+![figure6-the-interaction-of-tispark-and-tidb](../assets/figure6-the-interaction-of-tispark-and-tidb.png)
 
 _**图 6：TiSpark 和 TiDB 的交互**_
 
